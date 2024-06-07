@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rohan-sharma-372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-sharma-372" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohan-sharma-372ab2252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-sharma-372" height="30" width="40" /></a>
 <a href="https://instagram.com/rohan_sharma1199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohan_sharma1199" height="30" width="40" /></a>
 <a href="https://medium.com/@rohan.sharma12349876" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rohan.sharma12349876" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bca_0102760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bca_0102760" height="30" width="40" /></a>
